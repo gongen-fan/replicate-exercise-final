@@ -5,6 +5,10 @@ body {
     font-size       : large;
 }
 
+li {
+    list-style-position: inside;
+}
+
 button {
     font-size       : large;
     background-color: green;
